@@ -9,8 +9,14 @@ Automation Using Robot Framework.
 4. Test Cases.
 
 **Run:**
-1. All Test Cases: **robot -d reports -i EXAM suite**
+1. All Test Cases: 
 
-2. Run Test Case 1: **robot -d reports -i EXAM1 suite**
+    _robot -d reports -i EXAM suite_
 
-3. Run Test Case 2: **robot -d reports -i EXAM2 suite**
+2. Run Test Case 1: 
+
+    _robot -d reports -i EXAM1 suite_
+
+3. Run Test Case 2: 
+
+    _robot -d reports -i EXAM2 suite_
